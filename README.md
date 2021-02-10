@@ -1,2 +1,3 @@
 # Roman-Borodulin
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://www.codewars.com/users/bubinbei/badges/micro)
+[![N|Solid](https://www.codewars.com/users/bubinbei/badges/large)](https://www.codewars.com/users/bubinbei/badges/micro)
+https://www.codewars.com/users/bubinbei/badges/large
